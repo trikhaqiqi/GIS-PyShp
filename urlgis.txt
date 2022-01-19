@@ -1,0 +1,7 @@
+http://127.0.0.1:1024/cgi-bin/mapserv.exe?map=mywms.map&SERVICE=WMS&VERSION=1.0.0&REQUEST=GetCapabilities
+
+http://127.0.0.1:1024/cgi-bin/mapserv.exe?map=mywms.map&SERVICE=WMS&REQUEST=GetCapabilities
+
+http://127.0.0.1:1024/cgi-bin/mapserv.exe?map=mywfs.map&SERVICE=WFS&REQUEST=GetCapabilities
+
+http://127.0.0.1:1024/cgi-bin/mapserv.exe?map=mywcs.map&SERVICE=WCS&REQUEST=GetCapabilities
