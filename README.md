@@ -1,5 +1,5 @@
 # GIS-PyShp
-This is a daily assignment from the Geographic Information Systems course, in this assignment practice using the PyShp library from the Python programming language.
+Ini adalah tugas harian dari mata kuliah Sistem Informasi Geografis, dalam praktek tugas ini menggunakan library PyShp dari bahasa pemrograman Python.
 
 
 # Berikut adalah screenshots hasil dari pengerjaan soal :
